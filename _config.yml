@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Wisteria's Blog
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description: ここでは「PyTorchとfastaiによるディープラーニング」についてまとめるブログです
 github_username: wisteria0793
 
 # Email and twitter are optional:
